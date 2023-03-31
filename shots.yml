@@ -1,9 +1,9 @@
 - url: https://www.chainguard.dev/
-  output: shot.png
+  output: chainguard-dev.png
   height: 800
 - url: https://www.chainguard.dev/chainguard-images/
-  output: shot.png
+  output: chainguard-images.png
   height: 800
 - url: https://www.chainguard.dev/chainguard-enforce/
-  output: shot.png
+  output: chainguard-enforce.png
   height: 800
