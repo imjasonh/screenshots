@@ -1,9 +1,3 @@
-- url: https://www.chainguard.dev/
-  output: chainguard-dev.png
-  height: 800
-- url: https://www.chainguard.dev/chainguard-images/
-  output: chainguard-images.png
-  height: 800
-- url: https://www.chainguard.dev/chainguard-enforce/
-  output: chainguard-enforce.png
+- url: https://github.com/imjasonh
+  output: imjasonh-github.png
   height: 800
